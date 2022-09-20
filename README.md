@@ -1,2 +1,44 @@
 # Text-Editor
-he app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+## Description
+This app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+
+  ![license badge](https://img.shields.io/badge/license-MIT-red.svg)
+
+
+
+This application uses Express.js to store the notes in a JSON file. Then uses routes to allow the backend app to communicate with the front.
+
+## Table of Contents
+- [Usage](#usage)
+- [Installation] (#Installation)
+- [Deployed](#deployed)
+- [Contributing](#contributing)
+- [Questions](#questions)
+
+
+## Usage
+
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+
+## Installation
+
+Require command prompt using npm run start:dev.
+
+## Deployed
+
+Link to deployed application: https://mysterious-taiga-64969.herokuapp.com/ 
+
+## Contributing
+
+Please reach out if you would like to contribute!😃
+
+## Questions
+
+Please feel free to explore my other projects on github: [Lea Bryant](https://www.github.com/LeaBryant)
+
+If you have further questions you may send me an email at: ldbryant3220@gmail.com
+
+## Designed by:
+Your's truly Lea Bryant 🦄
