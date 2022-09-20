@@ -1,20 +1,15 @@
 # Text-Editor
+  ![license badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
 ## Description
 This app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
-  ![license badge](https://img.shields.io/badge/license-MIT-red.svg)
-
-
-
-This application uses Express.js to store the notes in a JSON file. Then uses routes to allow the backend app to communicate with the front.
-
 ## Table of Contents
 - [Usage](#usage)
-- [Installation] (#Installation)
+- [Installation](#Installation)
 - [Deployed](#deployed)
 - [Contributing](#contributing)
 - [Questions](#questions)
-
 
 ## Usage
 
@@ -24,10 +19,11 @@ SO THAT I can reliably retrieve them for later use
 
 ## Installation
 
-Require command prompt using npm run start:dev.
+Require command prompt using npm run start:dev
 
 ## Deployed
-![](./assets/Screen%20Shot%202022-09-19%20at%2010.19.00%20PM.png)
+
+![Screenshot](./Assets/Screen%20Shot%202022-09-19%20at%2010.19.00%20PM.png)
 
 Link to deployed application: https://damp-chamber-96196.herokuapp.com/
 
