@@ -25,7 +25,8 @@ Require command prompt using npm run start:dev
 
 ![Screenshot](./Assets/Screen%20Shot%202022-09-19%20at%2010.19.00%20PM.png)
 
-Link to deployed application: https://damp-chamber-96196.herokuapp.com/
+- Link to deployed application: https://damp-chamber-96196.herokuapp.com/
+- Link to Repo :https://github.com/LeaBryant/Text-Editor 
 
 ## Contributing
 
