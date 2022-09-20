@@ -28,7 +28,7 @@ Require command prompt using npm run start:dev.
 
 ## Deployed
 
-Link to deployed application: https://mysterious-taiga-64969.herokuapp.com/ 
+Link to deployed application: https://damp-chamber-96196.herokuapp.com/
 
 ## Contributing
 
