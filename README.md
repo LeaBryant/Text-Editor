@@ -27,6 +27,7 @@ SO THAT I can reliably retrieve them for later use
 Require command prompt using npm run start:dev.
 
 ## Deployed
+![](./assets/Screen%20Shot%202022-09-19%20at%2010.19.00%20PM.png)
 
 Link to deployed application: https://damp-chamber-96196.herokuapp.com/
 
